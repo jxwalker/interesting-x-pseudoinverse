@@ -1,0 +1,9 @@
+{
+  "title": "Pseudoinverse playground",
+  "date": "2026-10-15",
+  "description": "Drag points and watch the Moore–Penrose pseudoinverse A⁺ snap the best least-squares fit — overdetermined, underdetermined and rank-deficient — with live residual stalks and a singular-value spectrum you can truncate.",
+  "credit": {
+    "handle": "@scievision369",
+    "url": "https://x.com/scievision369/status/2106644532825858439"
+  }
+}

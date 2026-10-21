@@ -1,0 +1,18 @@
+{
+  "name": "interesting-x-pseudoinverse",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 43124",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 43124",
+    "typecheck": "tsc -b --pretty false"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.2",
+    "vite": "^7.1.5"
+  },
+  "description": "Drag points and watch the Moore–Penrose pseudoinverse A⁺ snap the best least-squares fit — overdetermined, underdetermined and rank-deficient — with live residual stalks and a singular-value spectrum you can truncate.",
+  "license": "MIT",
+  "private": false
+}
